@@ -53,7 +53,7 @@ inference API app using Docker, Kubernetes, and CircleCI. The microservice app i
 * Create Flask app in Container
 * Run via `kubectl`
 
-### List of Some Files in the Repo
+## List of Some Files in the Repo
 
 * `app.py` :  The Python flask app to operationalize
 
@@ -79,6 +79,6 @@ inference API app using Docker, Kubernetes, and CircleCI. The microservice app i
 * `.circleci` :  - A folder that contains CircleCI's config.yml file that 
                    checks the project code for errors
 
-### License
+## License
 
 The contents of this repository are covered under the [MIT Licence](#).
